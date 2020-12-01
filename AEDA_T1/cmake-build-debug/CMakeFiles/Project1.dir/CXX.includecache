@@ -1,0 +1,152 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Documentos/FEUP/2 ano/1 semestre/Algoritmos/AEDA_T1/Classes/Aeroporto.h
+iostream
+-
+Funcionario.h
+D:/Documentos/FEUP/2 ano/1 semestre/Algoritmos/AEDA_T1/Classes/Funcionario.h
+../Utils/Localizacao.h
+D:/Documentos/FEUP/2 ano/1 semestre/Algoritmos/AEDA_T1/Utils/Localizacao.h
+Aviao.h
+D:/Documentos/FEUP/2 ano/1 semestre/Algoritmos/AEDA_T1/Classes/Aviao.h
+../Classes/BinaryTree.h
+D:/Documentos/FEUP/2 ano/1 semestre/Algoritmos/AEDA_T1/Classes/BinaryTree.h
+
+D:/Documentos/FEUP/2 ano/1 semestre/Algoritmos/AEDA_T1/Classes/Aviao.h
+iostream
+-
+string
+-
+../Classes/Voo.h
+D:/Documentos/FEUP/2 ano/1 semestre/Algoritmos/AEDA_T1/Classes/Voo.h
+Aeroporto.h
+D:/Documentos/FEUP/2 ano/1 semestre/Algoritmos/AEDA_T1/Classes/Aeroporto.h
+../Classes/BinaryTree.h
+D:/Documentos/FEUP/2 ano/1 semestre/Algoritmos/AEDA_T1/Classes/BinaryTree.h
+
+D:/Documentos/FEUP/2 ano/1 semestre/Algoritmos/AEDA_T1/Classes/BinaryTree.h
+iostream
+-
+stack
+-
+queue
+-
+
+D:/Documentos/FEUP/2 ano/1 semestre/Algoritmos/AEDA_T1/Classes/Empresa.h
+iostream
+-
+queue
+-
+string
+-
+
+D:/Documentos/FEUP/2 ano/1 semestre/Algoritmos/AEDA_T1/Classes/Funcionario.h
+../Utils/split.h
+D:/Documentos/FEUP/2 ano/1 semestre/Algoritmos/AEDA_T1/Utils/split.h
+../Utils/Data.h
+D:/Documentos/FEUP/2 ano/1 semestre/Algoritmos/AEDA_T1/Utils/Data.h
+../Utils/Hora.h
+D:/Documentos/FEUP/2 ano/1 semestre/Algoritmos/AEDA_T1/Utils/Hora.h
+../Classes/Voo.h
+D:/Documentos/FEUP/2 ano/1 semestre/Algoritmos/AEDA_T1/Classes/Voo.h
+iostream
+-
+utility
+-
+
+D:/Documentos/FEUP/2 ano/1 semestre/Algoritmos/AEDA_T1/Classes/Voo.h
+../Utils/split.h
+D:/Documentos/FEUP/2 ano/1 semestre/Algoritmos/AEDA_T1/Utils/split.h
+../Utils/Hora.h
+D:/Documentos/FEUP/2 ano/1 semestre/Algoritmos/AEDA_T1/Utils/Hora.h
+../Utils/Data.h
+D:/Documentos/FEUP/2 ano/1 semestre/Algoritmos/AEDA_T1/Utils/Data.h
+../Classes/BinaryTree.h
+D:/Documentos/FEUP/2 ano/1 semestre/Algoritmos/AEDA_T1/Classes/BinaryTree.h
+
+D:/Documentos/FEUP/2 ano/1 semestre/Algoritmos/AEDA_T1/Menu/ListarAeroportoMenu.cpp
+ListarAeroportoMenu.h
+D:/Documentos/FEUP/2 ano/1 semestre/Algoritmos/AEDA_T1/Menu/ListarAeroportoMenu.h
+
+D:/Documentos/FEUP/2 ano/1 semestre/Algoritmos/AEDA_T1/Menu/ListarAeroportoMenu.h
+MainMenu.h
+D:/Documentos/FEUP/2 ano/1 semestre/Algoritmos/AEDA_T1/Menu/MainMenu.h
+../Classes/BinaryTree.h
+D:/Documentos/FEUP/2 ano/1 semestre/Algoritmos/AEDA_T1/Classes/BinaryTree.h
+
+D:/Documentos/FEUP/2 ano/1 semestre/Algoritmos/AEDA_T1/Menu/MainMenu.h
+Menu.h
+D:/Documentos/FEUP/2 ano/1 semestre/Algoritmos/AEDA_T1/Menu/Menu.h
+
+D:/Documentos/FEUP/2 ano/1 semestre/Algoritmos/AEDA_T1/Menu/Menu.h
+iostream
+-
+vector
+-
+string
+-
+unordered_set
+-
+map
+-
+algorithm
+-
+fstream
+-
+iomanip
+-
+iostream
+-
+../Classes/Empresa.h
+D:/Documentos/FEUP/2 ano/1 semestre/Algoritmos/AEDA_T1/Classes/Empresa.h
+../Classes/Aeroporto.h
+D:/Documentos/FEUP/2 ano/1 semestre/Algoritmos/AEDA_T1/Classes/Aeroporto.h
+../Classes/Aviao.h
+D:/Documentos/FEUP/2 ano/1 semestre/Algoritmos/AEDA_T1/Classes/Aviao.h
+../Utils/sorts.h
+D:/Documentos/FEUP/2 ano/1 semestre/Algoritmos/AEDA_T1/Utils/sorts.h
+../Utils/lower.h
+D:/Documentos/FEUP/2 ano/1 semestre/Algoritmos/AEDA_T1/Utils/lower.h
+../Utils/split.h
+D:/Documentos/FEUP/2 ano/1 semestre/Algoritmos/AEDA_T1/Utils/split.h
+
+D:/Documentos/FEUP/2 ano/1 semestre/Algoritmos/AEDA_T1/Utils/Data.h
+iostream
+-
+
+D:/Documentos/FEUP/2 ano/1 semestre/Algoritmos/AEDA_T1/Utils/GPS.h
+iostream
+-
+
+D:/Documentos/FEUP/2 ano/1 semestre/Algoritmos/AEDA_T1/Utils/Hora.h
+iostream
+-
+
+D:/Documentos/FEUP/2 ano/1 semestre/Algoritmos/AEDA_T1/Utils/Localizacao.h
+iostream
+-
+string
+-
+split.h
+D:/Documentos/FEUP/2 ano/1 semestre/Algoritmos/AEDA_T1/Utils/split.h
+GPS.h
+D:/Documentos/FEUP/2 ano/1 semestre/Algoritmos/AEDA_T1/Utils/GPS.h
+
+D:/Documentos/FEUP/2 ano/1 semestre/Algoritmos/AEDA_T1/Utils/lower.h
+iostream
+-
+
+D:/Documentos/FEUP/2 ano/1 semestre/Algoritmos/AEDA_T1/Utils/sorts.h
+
+D:/Documentos/FEUP/2 ano/1 semestre/Algoritmos/AEDA_T1/Utils/split.h
+iostream
+-
+vector
+-
+

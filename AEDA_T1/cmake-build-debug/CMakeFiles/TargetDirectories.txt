@@ -1,0 +1,3 @@
+D:/Documentos/FEUP/2 ano/1 semestre/Algoritmos/AEDA_T1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Documentos/FEUP/2 ano/1 semestre/Algoritmos/AEDA_T1/cmake-build-debug/CMakeFiles/Project1.dir
+D:/Documentos/FEUP/2 ano/1 semestre/Algoritmos/AEDA_T1/cmake-build-debug/CMakeFiles/edit_cache.dir
